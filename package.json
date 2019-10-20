@@ -1,0 +1,21 @@
+{
+  "name": "cursor",
+  "version": "1.0.0",
+  "description": "SCSS tool that defines a class for each different css cursor value.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrFrontend/cursor.git"
+  },
+  "keywords": [
+    "cursor",
+    "SCSS",
+    "BEM",
+    "ITCSS"
+  ],
+  "author": "Antoni Huguet Vives",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrFrontend/cursor/issues"
+  },
+  "homepage": "https://github.com/MrFrontend/cursor#readme"
+}
